@@ -28,12 +28,11 @@ In this project, we work with a dataset containing information about various car
 ## Installation
 To run this project, you'll need to have the following libraries installed:
 
-```bash
 pip install pandas numpy matplotlib seaborn
 
 ## Place your dataset (extended_data.csv) in the root directory.
 
-##Technologies
+## Technologies
 The following libraries and tools were used in this project:
 
 Python: Core programming language.
@@ -41,5 +40,6 @@ Pandas: For data manipulation and analysis.
 NumPy: For numerical computations.
 Matplotlib: For data visualization.
 Seaborn: For advanced visualizations and styling.
-License
+
+## License
 This project is licensed under the MIT License.
